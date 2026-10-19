@@ -1,0 +1,15 @@
+# Secrets: the real key stays local. .env.example is committed instead.
+.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Local working files, not part of the submission
+*.zip
+time_log.md
+HANDOFF.md
+.claude/
+CLAUDE.local.md

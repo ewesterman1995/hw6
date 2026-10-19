@@ -1,0 +1,8 @@
+pydantic-ai-slim[openai]==2.55.0
+openai==3.33.0
+pydantic==2.14.1
+python-dotenv==1.2.4
+pypdf==6.21.1
+tiktoken==0.14.0
+# Optional: only needed to regenerate data/my_attacks/ with make_attacks.py
+reportlab==5.0.1

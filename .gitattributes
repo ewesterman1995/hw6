@@ -1,0 +1,2 @@
+# Store every file byte-for-byte: no line-ending conversion (keeps the PDF and .eml test docs intact).
+* -text
